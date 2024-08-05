@@ -16,8 +16,7 @@ The What-To-Do List Bot is a Discord bot designed to manage tasks within a serve
 
 ## Usage
 
-- Add the bot to your server.
-
+- Add the bot to your server.
 - Use the commands defined for creating, editing, and managing tasks.
 - Interact with the bot with the following commands or through the buttons and modals created in the new todo-chan.
 
